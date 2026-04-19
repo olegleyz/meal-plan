@@ -1,0 +1,104 @@
+---
+---
+
+@import "jekyll-theme-cayman";
+
+/* Mobile & general UX overrides */
+
+:root {
+  --body-max-width: 72rem;
+}
+
+body {
+  text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  line-height: 1.5;
+}
+
+/* Wrap tables for horizontal scroll instead of overflow — key mobile fix */
+.main-content {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.main-content table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  white-space: nowrap;
+}
+
+/* Images: fluid, preserve aspect */
+.main-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* Anchor tap targets & back-to-top styling */
+.main-content a {
+  word-break: break-word;
+}
+
+/* Small screens: tighten header + content padding and scale fonts */
+@media screen and (max-width: 768px) {
+  .page-header {
+    padding: 2rem 1rem !important;
+  }
+
+  .page-header .project-name {
+    font-size: 1.75rem;
+  }
+
+  .page-header .project-tagline {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+  }
+
+  .main-content {
+    padding: 1rem !important;
+    font-size: 1rem;
+  }
+
+  .main-content h1 {
+    font-size: 1.5rem;
+  }
+
+  .main-content h2 {
+    font-size: 1.25rem;
+    margin-top: 2rem;
+  }
+
+  .main-content h3 {
+    font-size: 1.1rem;
+    margin-top: 1.25rem;
+  }
+
+  .main-content table {
+    font-size: 0.9rem;
+    white-space: normal;
+  }
+
+  .main-content table th,
+  .main-content table td {
+    padding: 0.35rem 0.5rem;
+  }
+
+  /* Make back-to-top links easier to tap */
+  .main-content p > a[href="#top"] {
+    display: inline-block;
+    padding: 0.5rem 0;
+  }
+}
+
+/* Extra-small phones */
+@media screen and (max-width: 400px) {
+  .page-header .project-name {
+    font-size: 1.4rem;
+  }
+
+  .main-content h1 {
+    font-size: 1.3rem;
+  }
+}

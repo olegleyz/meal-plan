@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-title: "Weekly Menu"
-description: "A 7-day meal plan built around training schedule and personal preferences. Fat-loss + muscle-preservation oriented."
+title: "Недельное меню"
+description: "7-дневный план питания. Снижение жира и сохранение мышечной массы, с учётом тренировочного графика."
+lang: ru
 show_downloads: false

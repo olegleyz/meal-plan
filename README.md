@@ -1,23 +1,21 @@
-# Weekly Menu
+# Недельное меню
 
-A 7-day meal plan built around training schedule, macro targets, and personal preferences. Fat loss + muscle preservation oriented.
+7-дневный план питания, построенный вокруг тренировочного графика, целевых макронутриентов и личных предпочтений. Ориентирован на снижение жира и сохранение мышечной массы.
 
-**Live site**: https://olegleyz.github.io/meal-plan/
+**Сайт**: https://olegleyz.github.io/meal-plan/
 
-## What's here
+## Что внутри
 
-- `index.md` — the full weekly menu with per-day cards, portion tables, and macro totals.
-- `photos/` — one triptych image per day (breakfast / lunch / dinner).
+- `index.md` — полное недельное меню с карточками на каждый день, таблицами порций и итогами по макронутриентам.
+- `photos/` — по одной триптих-картинке на день (завтрак / обед / ужин).
 
-## Source & approach
+## Основа плана
 
-Plan was calibrated against:
+- Минимум белка 1,6–2,2 г на кг массы тела (цель ~150 г в день) по рекомендации спортивной диетологии.
+- Дефицит ~10–15 % от расчётного TDEE.
+- Не менее 30 видов растительных продуктов в неделю (разнообразие микробиома).
+- Распределение энергии: завтрак ≥ обед > ужин.
+- 3 приёма пищи в день, без структурного перекуса (допустим небольшой сладкий кусочек с кофе).
+- Политика «заслуженного десерта» привязана к тренировочным дням.
 
-- A sports-RD protein floor of 1.6–2.2 g/kg bodyweight (target ~150 g/day).
-- A ~10–15% calorie deficit below estimated TDEE.
-- Daily ≥ 30 plant varieties for microbiome diversity.
-- Breakfast ≥ lunch > dinner energy distribution.
-- 3 meals / day, no structured snack (small sweet bite with coffee permitted).
-- Earned-dessert policy tied to training days.
-
-Not medical advice. This is one person's plan, published as a reference.
+Не является медицинской рекомендацией. Это личный план одного человека, опубликованный как референс.

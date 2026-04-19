@@ -1,257 +1,257 @@
 <a id="top"></a>
 
-# Weekly Menu — Oleg
+# Недельное меню — Олег
 
-Generated 2026-04-18. Plan is calibrated for fat loss + muscle preservation, built around a 39 M / 82 kg / 180 cm profile training 5×/week. Cottage-cheese glass is the daily protein anchor; the rotating partner changes the day's character.
+Составлено 18 апреля 2026. План откалиброван под снижение жира и сохранение мышечной массы, с учётом профиля 39 лет / 82 кг / 180 см и тренировок 5 раз в неделю. Стакан творога — ежедневный белковый якорь; ротирующийся «партнёр» меняет характер дня.
 
-## Jump to day
+## Перейти к дню
 
-| Day | Load | kcal | Protein | Highlights |
+| День | Нагрузка | ккал | Белок | Основные блюда |
 |---|---|---|---|---|
-| [Monday](#monday) | 30-min run (fasted) | ~1955 | 172 g | Eggs + kale bf, chicken + veg bowl lunch, pumpkin–lentil soup dinner |
-| [**Tuesday**](#tuesday) | Gym full-body (fasted) + whey + banana | ~2025 | 186 g | Chickpea rotini w/ shrimp lunch, chicken + buckwheat dinner |
-| [Wednesday](#wednesday) | Rest — step nudge | ~1905 | 157 g | Chicken + millet lunch, salmon + pasta + broccoli dinner |
-| [**Thursday**](#thursday) | Gym full-body (fasted) + whey | ~2050 | 175 g | Salmon + beet salad lunch, chicken + millet + bok choy dinner |
-| [Friday](#friday) | Rest — step nudge | ~1895 | 158 g | Canned wild salmon bowl lunch, wild cod + potato + broccoli dinner |
-| [**Saturday**](#saturday) | HIIT + yoga (fed) 2 h | ~2085 | 150 g | Blini + smoked salmon bf, post-workout bowl, roast chicken dinner |
-| [**Sunday**](#sunday) | Boxing + HIIT (fed) 90 min | ~2040 | 160 g | Syrniki bf, chicken leftovers lunch, white-bean + tuna salad dinner |
+| [Понедельник](#monday) | Пробежка 30 мин (натощак) | ~1955 | 172 г | Яйца с кейлом, миска с курицей и овощами, тыквенный суп с чечевицей |
+| [**Вторник**](#tuesday) | Спортзал full-body (натощак) + протеин + банан | ~2025 | 186 г | Нутовые роттини с креветками, куриные бёдра с гречкой |
+| [Среда](#wednesday) | Отдых — подвигаться | ~1905 | 157 г | Курица с пшеном, лосось с пастой и брокколи |
+| [**Четверг**](#thursday) | Спортзал full-body (натощак) + протеин | ~2050 | 175 г | Лосось с салатом из свёклы, курица с пшеном и пак-чой |
+| [Пятница](#friday) | Отдых — подвигаться | ~1895 | 158 г | Миска с консервированным лососем, треска с картофелем и брокколи |
+| [**Суббота**](#saturday) | HIIT + йога (сытый) 2 ч | ~2085 | 150 г | Блины с малосольным лососем, восстановительная миска, запечённая курица |
+| [**Воскресенье**](#sunday) | Бокс + HIIT (сытый) 90 мин | ~2040 | 160 г | Сырники, миска с остатками курицы, салат с белой фасолью и тунцом |
 
-Weekly average **~1994 kcal, 163 g protein/day** — above the 150 g floor, within 2% of the 1960 kcal target.
+Средняя неделя: **~1994 ккал, 163 г белка в день** — выше минимума 150 г, в пределах 2 % от цели 1960 ккал.
 
-## Daily anchor breakfast (most days)
+## Якорный завтрак (большинство дней)
 
-Cottage-cheese glass = 200 g MC Dairy Pressed cottage cheese + 100 g Greek yogurt + 80 g berries + 10 g chia seeds. Black coffee + 2–3 Medjool dates.
+**Стакан с творогом** = 200 г MC Dairy прессованный творог + 100 г греческого йогурта + 80 г ягод + 10 г семян чиа. Чёрный кофе + 2–3 финика Меджул.
 
-**Anchor macros**: ~465 kcal, 57 g protein.
+**Макро якоря**: ~465 ккал, 57 г белка.
 
-Then the day's rotating partner:
+Затем — «партнёр» дня:
 
-- **Weekday default** — 2-egg scramble + sautéed veg (kale / spinach / tomato / pepper). ~180 kcal, +14 g P.
-- **Home-cured salmon** (standing option) — 50 g thin-sliced + 1 egg + veg. +18 g P.
-- **Weekend signature** — Sat blini or Sun syrniki.
+- **Будний день по умолчанию** — омлет из 2 яиц + обжаренные овощи (кейл / шпинат / помидоры / перец). ~180 ккал, +14 г белка.
+- **Малосольный лосось домашнего посола** (постоянная опция) — 50 г тонко нарезанного + 1 яйцо + овощи. +18 г белка.
+- **Выходной сигнатурный** — субботние блины или воскресные сырники.
 
 ---
 
-## <a id="monday"></a>Monday — easy run, plant-leaning lunch + dinner
+## <a id="monday"></a>Понедельник — лёгкая пробежка, овощной обед и ужин
 
-![Monday meals — eggs with kale and tomato, chicken and roasted-veg bowl, pumpkin–lentil soup](photos/monday.png)
+![Понедельник — яйца с кейлом и помидорами, миска с курицей и запечёнными овощами, тыквенный суп с чечевицей](photos/monday.png)
 
-### Breakfast — default (anchor + eggs plate)
+### Завтрак — по умолчанию (якорь + тарелка с яйцами)
 
-| Ingredient | Portion | kcal | Protein |
+| Ингредиент | Порция | ккал | Белок |
 |---|---|---|---|
-| Cottage-cheese glass (anchor) | 200 + 100 + 80 + 10 g | 398 | 57 g |
-| Coffee + 3 Medjool dates | 3 | 65 | 0 g |
-| 2 eggs + sautéed veg | 2 + 150 g | 180 | 14 g |
-| **Total** | | **~645** | **~71 g** |
+| Стакан с творогом (якорь) | 200 + 100 + 80 + 10 г | 398 | 57 г |
+| Кофе + 3 финика Меджул | 3 шт | 65 | 0 г |
+| 2 яйца + обжаренные овощи | 2 + 150 г | 180 | 14 г |
+| **Итого** | | **~645** | **~71 г** |
 
-### Mid-morning — 1 apple (~80 kcal)
+### Перекус в середине утра — 1 яблоко (~80 ккал)
 
-### Lunch — Leftover-chicken salad bowl with Finnish crackers
+### Обед — миска с курицей (из остатков) и финскими ржаными хлебцами
 
-| Ingredient | Portion | kcal | Protein |
+| Ингредиент | Порция | ккал | Белок |
 |---|---|---|---|
-| Leftover roast chicken | 120 g | 200 | 32 g |
-| Baked eggplant | 200 g | 50 | 2 g |
-| Roasted red pepper | 150 g | 45 | 2 g |
-| Canned white beans | 150 g | 160 | 10 g |
-| Roasted garlic + parsley | 5 cloves + 15 g | 25 | 1 g |
-| Finnish rye crackers | 2 | 80 | 3 g |
-| EVOO | 1 tsp | 40 | 0 g |
-| **Total** | | **~600** | **~50 g** |
+| Остатки запечённой курицы (разобранной) | 120 г | 200 | 32 г |
+| Запечённый баклажан | 200 г | 50 | 2 г |
+| Запечённый красный перец | 150 г | 45 | 2 г |
+| Белая фасоль (консервированная) | 150 г | 160 | 10 г |
+| Запечённый чеснок + петрушка | 5 зуб. + 15 г | 25 | 1 г |
+| Финские ржаные хлебцы | 2 | 80 | 3 г |
+| Оливковое масло Extra Virgin | 1 ч. л. | 40 | 0 г |
+| **Итого** | | **~600** | **~50 г** |
 
-### Dinner — Pumpkin–red-lentil soup with shredded chicken
+### Ужин — тыквенный крем-суп с красной чечевицей и разобранной курицей
 
-| Ingredient | Portion | kcal | Protein |
+| Ингредиент | Порция | ккал | Белок |
 |---|---|---|---|
-| Pumpkin + onion + garlic + lentils + tomato paste | — | 330 | 19 g |
-| Shredded chicken breast (top) | 100 g | 165 | 31 g |
-| Sunflower seeds + cilantro + EVOO | 15 g + 10 g + 1 tsp | 135 | 3 g |
-| **Total** | | **~630** | **~53 g** |
+| Тыква + лук + чеснок + чечевица + томатная паста | — | 330 | 19 г |
+| Разобранная куриная грудка (сверху) | 100 г | 165 | 31 г |
+| Семена подсолнуха + кинза + оливковое масло | 15 + 10 г + 1 ч. л. | 135 | 3 г |
+| **Итого** | | **~630** | **~53 г** |
 
-**Day total: ~1955 kcal · 174 g P · 52 g F · 207 g C** ✓
+**Итог дня: ~1955 ккал · 174 г белка · 52 г жиров · 207 г углеводов** ✓
 
-[↑ Back to top](#top)
+[↑ Наверх](#top)
 
 ---
 
-## <a id="tuesday"></a>Tuesday — heavy lift + whey (earned-dessert-eligible)
+## <a id="tuesday"></a>Вторник — тяжёлый спортзал + сывороточный протеин (день «заслуженного десерта»)
 
-![Tuesday meals — cottage cheese bowl + eggs plate, chickpea rotini with shrimp, chicken thighs and buckwheat](photos/tuesday.png)
+![Вторник — тарелка с творогом и яйцами, нутовые роттини с креветками, куриные бёдра с гречкой](photos/tuesday.png)
 
-### 6 am gym (fasted) → 7 am post-gym: whey + creatine + banana
+### 6:00 спортзал (натощак) → 7:00 после тренировки: сывороточный протеин + креатин + банан
 
-| Ingredient | Portion | kcal | Protein |
+| Ингредиент | Порция | ккал | Белок |
 |---|---|---|---|
-| ON Gold Standard whey | 1 scoop | 120 | 24 g |
-| Creatine monohydrate | 5 g | 0 | 0 g |
-| Banana (blended) | 1 medium | 90 | 1 g |
-| **Total** | | **~210** | **25 g** |
+| ON Gold Standard Whey | 1 мерная ложка | 120 | 24 г |
+| Креатин моногидрат | 5 г | 0 | 0 г |
+| Банан (в блендере) | 1 средний | 90 | 1 г |
+| **Итого** | | **~210** | **25 г** |
 
-### Breakfast — default (anchor + eggs plate) → same as Mon, ~645 kcal, 71 g P
+### Завтрак — по умолчанию (якорь + яйца) → как в понедельник, ~645 ккал, 71 г белка
 
-### Lunch — Chickpea rotini + EZ-peel shrimp + cabbage
+### Обед — нутовые роттини с креветками и капустой
 
-| Ingredient | Portion | kcal | Protein |
+| Ингредиент | Порция | ккал | Белок |
 |---|---|---|---|
-| Chickpea or red-lentil rotini (dry) | 80 g | 280 | 18 g |
-| Frozen EZ-peel shrimp | 130 g | 150 | 32 g |
-| Cabbage (sautéed) + carrot + parsley | 100 + 50 + 20 g | 50 | 1 g |
-| Almonds + EVOO + avocado oil | 10 g + 2 tsp | 140 | 2 g |
-| **Total** | | **~620** | **~53 g** |
+| Нутовые или чечевичные роттини (сухие) | 80 г | 280 | 18 г |
+| Креветки EZ-peel замороженные | 130 г | 150 | 32 г |
+| Капуста (тушёная) + морковь + петрушка | 100 + 50 + 20 г | 50 | 1 г |
+| Миндаль + оливковое + масло авокадо | 10 г + 2 ч. л. | 140 | 2 г |
+| **Итого** | | **~620** | **~53 г** |
 
-### Dinner — Chicken thighs + buckwheat + roasted veg + tomato sauce
+### Ужин — куриные бёдра + гречка + запечённые овощи + томатный соус
 
-Batch day 1 of chicken thighs (→ Wed lunch, Thu dinner). Batch day 1 of buckwheat (→ Wed alternate breakfast).
+Заготовка дня 1: курица на 3 приёма (→ обед среды, ужин четверга). Заготовка гречки на 2 дня (→ альтернативный завтрак в среду).
 
-| Ingredient | Portion | kcal | Protein |
+| Ингредиент | Порция | ккал | Белок |
 |---|---|---|---|
-| B/S chicken thighs | 120 g | 230 | 26 g |
-| Buckwheat (dry) | 60 g | 200 | 7 g |
-| Sweet pepper + daikon + arugula + sauce + EVOO | — | 120 | 4 g |
-| **Total** | | **~550** | **~37 g** |
+| Куриные бёдра без кости | 120 г | 230 | 26 г |
+| Гречка (сухая) | 60 г | 200 | 7 г |
+| Сладкий перец + дайкон + руккола + соус + оливковое масло | — | 120 | 4 г |
+| **Итого** | | **~550** | **~37 г** |
 
-**Day total: ~2025 kcal · 186 g P · 61 g F · 197 g C** ✓
-Earned-dessert eligible (+~300 kcal if wanted).
+**Итог дня: ~2025 ккал · 186 г белка · 61 г жиров · 197 г углеводов** ✓
+День «заслуженного десерта» (+~300 ккал по желанию).
 
-[↑ Back to top](#top)
-
----
-
-## <a id="wednesday"></a>Wednesday — REST day (step nudge)
-
-![Wednesday meals — default breakfast, chicken with millet, salmon with pasta and broccoli](photos/wednesday.png)
-
-### Breakfast — default ~645 kcal, 71 g P
-
-### Lunch — Chicken thighs (batch day 2) + millet + pepper / celery / kohlrabi + tomato sauce + almonds
-
-~625 kcal, 43 g P.
-
-### Dinner — Costco salmon (batch day 1) + pasta + broccoli + parsley
-
-~635 kcal, 43 g P. No omega-3 supplement today — salmon covers it.
-
-**Day total: ~1905 kcal · 157 g P · 73 g F · 159 g C.** Rest-day band. No earned dessert. **Step target: 10–12 k** (3 post-meal walks minimum).
-
-[↑ Back to top](#top)
+[↑ Наверх](#top)
 
 ---
 
-## <a id="thursday"></a>Thursday — heavy lift + whey (earned-dessert-eligible)
+## <a id="wednesday"></a>Среда — ДЕНЬ ОТДЫХА (больше шагов)
 
-![Thursday meals — post-gym whey + breakfast, salmon with sweet potato and beet salad, chicken with millet and bok choy](photos/thursday.png)
+![Среда — завтрак по умолчанию, курица с пшеном, лосось с пастой и брокколи](photos/wednesday.png)
 
-### 7 am post-gym: whey + creatine (~120 kcal, 24 g P)
+### Завтрак — по умолчанию, ~645 ккал, 71 г белка
 
-### Breakfast — default ~645 kcal, 71 g P
+### Обед — куриные бёдра (день 2 заготовки) + пшено + перец / сельдерей / кольраби + томатный соус + миндаль
 
-### Lunch — Costco salmon (batch day 2) + baked sweet potato + roasted-beet salad with prune, walnut, arugula
+~625 ккал, 43 г белка.
 
-~690 kcal, 38 g P.
+### Ужин — лосось Costco (день 1 заготовки) + паста + брокколи + петрушка
 
-### Dinner — Chicken thighs (batch day 3, final) + millet + bok choy + soy + sesame (Asian profile)
+~635 ккал, 43 г белка. Омега-3 сегодня **не принимать** — лосось покрывает.
 
-~460 kcal, 35 g P.
+**Итог дня: ~1905 ккал · 157 г белка · 73 г жиров · 159 г углеводов.** День отдыха. Десерт не положен (правило для дней без тренировок). **Цель шагов: 10–12 тыс.** (как минимум 3 прогулки после еды).
 
-**Day total: ~1915 kcal · 168 g P · 69 g F · 170 g C.** Earned-dessert eligible.
-
-[↑ Back to top](#top)
+[↑ Наверх](#top)
 
 ---
 
-## <a id="friday"></a>Friday — REST day (step nudge)
+## <a id="thursday"></a>Четверг — тяжёлый спортзал + сывороточный протеин (день «заслуженного десерта»)
 
-![Friday meals — default breakfast, canned wild salmon grain bowl, wild cod with potato and broccoli](photos/friday.png)
+![Четверг — протеин и завтрак, лосось с бататом и салатом из свёклы, курица с пшеном и пак-чой](photos/thursday.png)
 
-### Breakfast — default ~645 kcal, 71 g P
+### 7:00 после тренировки: сывороточный протеин + креатин (~120 ккал, 24 г белка)
 
-### Lunch — Canned wild salmon + white beans + quinoa / buckwheat + Sunday-batch roasted veg + arugula
+### Завтрак — по умолчанию, ~645 ккал, 71 г белка
 
-~560 kcal, 40 g P.
+### Обед — лосось Costco (день 2 заготовки) + запечённый батат + салат из запечённой свёклы с черносливом, грецким орехом и рукколой
 
-### Dinner — Wild cod OR ocean perch (окунь / redfish) + baked potato + broccoli + tomato sauce
+~690 ккал, 38 г белка.
 
-~435 kcal, 47 g P.
+### Ужин — куриные бёдра (день 3, последний) + пшено + пак-чой + соевый соус + кунжут (азиатский профиль)
 
-**Day total: ~1895 kcal · 158 g P · 46 g F · 175 g C.** Rest-day band. **Take 2–3 Omega-3 softgels today** (no salmon in plan). Step target 10–12 k.
+~460 ккал, 35 г белка.
 
-[↑ Back to top](#top)
+**Итог дня: ~1915 ккал · 168 г белка · 69 г жиров · 170 г углеводов.** День «заслуженного десерта».
 
----
-
-## <a id="saturday"></a>Saturday — peak training (HIIT + yoga 2 h)
-
-![Saturday meals — green-buckwheat blini with smoked salmon, post-workout refuel bowl, roast chicken with vegetables](photos/saturday.png)
-
-### Breakfast — weekend signature: green-buckwheat blini
-
-(Stacks on top of anchor with 100 g cottage cheese instead of 200 g to avoid protein overshoot. Can swap to default routine if not in the mood.)
-
-Blini (3 pieces, from overnight-soaked green-buckwheat batter) + 50 g smoked salmon + ½ avocado + tomato + shallot + arugula + blueberries.
-
-With scaled-down anchor: ~720 kcal, 35 g P.
-
-### Lunch — Post-workout refuel bowl (pizza replacement)
-
-Rice / grain + eggs or leftover protein + avocado + roasted veg + sauerkraut + watermelon. ~785 kcal, 44 g P.
-
-### Dinner — Roast whole chicken (Week 1 pick from 4-option rotation)
-
-Whole roasted chicken with root veg. Oleg portion: 180 g chicken + 200 g veg + 60 g grain. ~580 kcal, 50 g P.
-
-*Yields ~500 g usable meat total → covers Mon lunch (120 g) + Sun lunch (150 g) + flex.*
-
-**Day total: ~2085 kcal · 129 g P · 65 g F · 190 g C.** Protein below 150 floor — add a cottage-cheese side with the blini, or an afternoon yogurt + berries, to hit 150+. Earned-dessert eligible.
-
-[↑ Back to top](#top)
+[↑ Наверх](#top)
 
 ---
 
-## <a id="sunday"></a>Sunday — peak burn (boxing + HIIT 90 min) + weekly prep
+## <a id="friday"></a>Пятница — ДЕНЬ ОТДЫХА (больше шагов)
 
-![Sunday meals — syrniki breakfast, Saturday-leftover chicken bowl, white-bean and tuna salad](photos/sunday.png)
+![Пятница — завтрак по умолчанию, миска с консервированным лососем, треска с картофелем и брокколи](photos/friday.png)
 
-### Breakfast — weekend signature: syrniki (partial swap — 100 g cottage cheese in glass instead of 200)
+### Завтрак — по умолчанию, ~645 ккал, 71 г белка
 
-3 syrniki (150 g cottage cheese + 1 egg + 15 g rice flour + 3 dates) + Greek yogurt + blueberries + banana + almonds. Combined with scaled-down anchor: ~600 kcal, 63 g P.
+### Обед — консервированный дикий лосось + белая фасоль + киноа / гречка + запечённые овощи (воскресная заготовка) + руккола
 
-### Lunch — Chicken leftover bowl from Sat roast
+~560 ккал, 40 г белка.
 
-150 g chicken + grain + greens + veg. ~650 kcal, 50 g P.
+### Ужин — дикая треска ИЛИ морской окунь + запечённый картофель + брокколи + томатный соус
 
-### Dinner — White-bean + tuna salad (1/week tuna allowance; nori dropped)
+~435 ккал, 47 г белка.
 
-Canned tuna (130 g) + white beans + boiled egg + olives + tomato + arugula + EVOO. ~420 kcal, 47 g P.
+**Итог дня: ~1895 ккал · 158 г белка · 46 г жиров · 175 г углеводов.** День отдыха. **Принять 2–3 капсулы омега-3** (без лосося в меню). Цель шагов 10–12 тыс.
 
-### Optional — NY cheesecake (earned dessert, ~320 kcal, after lunch not dinner)
-
-**Day total: ~2040 kcal · 160 g P · 59 g F · 164 g C** (with cheesecake) ✓
-
-[↑ Back to top](#top)
+[↑ Наверх](#top)
 
 ---
 
-## Weekly prep summary
+## <a id="saturday"></a>Суббота — пиковая тренировка (HIIT + йога 2 ч)
 
-- **Sunday afternoon** — batch roast eggplant / peppers / garlic / pumpkin / beets / potatoes; hard-boil 4 eggs; cure 300 g fresh salmon; soak 150 g buckwheat for Tue.
-- **Tuesday evening** — roast 400 g chicken thighs (3 meals forward); cook 150 g buckwheat + 120 g millet.
-- **Wednesday evening** — bake 300 g salmon (2 meals forward).
-- **Saturday afternoon** — roast whole chicken (week 1 of rotation); carve for Sun lunch + Mon lunch shredded.
+![Суббота — блины с малосольным лососем, восстановительная миска, запечённая курица с овощами](photos/saturday.png)
 
-## Daily supplements
+### Завтрак — сигнатурный выходной: блины из зелёной гречки
 
-- **Breakfast** — multi + K2 (+ creatine 5 g on non-gym days — mix into yogurt)
-- **Post-gym Tue / Thu** — whey + creatine 5 g + banana
-- **Non-salmon days** (Mon, Fri, variable Sat / Sun) — 2–3 Omega-3 softgels with a meal
-- **Bedtime** — magnesium
-- **Situational only** — Vitamin C 1000 mg (cold / high-stress weeks)
+(На день блинов — 100 г творога в стакане вместо 200 г, чтобы не перебрать белок. Если блины «не заходят» — можно по умолчанию.)
 
-## Hydration
+Блины (3 шт., из замоченной на ночь зелёной гречки) + 50 г малосольного лосося + ½ авокадо + помидор + шалот + руккола + голубика.
 
-- Baseline **2.5 L / day**; training days (Tue / Thu / Sat / Sun) **3.0–3.5 L**.
-- Temperature neutral — warm + lemon / lime in the morning is fine (drink through a straw; rinse after).
-- Electrolytes only on Sat HIIT / Sun boxing or hot weather.
-- Cut off water ~1–2 h before bed.
+С уменьшенным якорем: ~720 ккал, 35 г белка.
 
-[↑ Back to top](#top)
+### Обед — восстановительная миска после тренировки (замена пиццы)
+
+Рис / крупа + яйца или белок с прошлого дня + авокадо + запечённые овощи + квашеная капуста + арбуз. ~785 ккал, 44 г белка.
+
+### Ужин — запечённая курица целиком (неделя 1 из ротации 4 вариантов)
+
+Запечённая курица с корнеплодами. Порция Олега: 180 г курицы + 200 г овощей + 60 г крупы. ~580 ккал, 50 г белка.
+
+*Даёт ~500 г готового мяса → хватит на обед понедельника (120 г) + обед воскресенья (150 г) + запас.*
+
+**Итог дня: ~2085 ккал · 129 г белка · 65 г жиров · 190 г углеводов.** Белок ниже минимума 150 — добавить творог к блинам или йогурт с ягодами днём, чтобы добрать. День «заслуженного десерта».
+
+[↑ Наверх](#top)
+
+---
+
+## <a id="sunday"></a>Воскресенье — пиковое сжигание (бокс + HIIT 90 мин) + недельная заготовка
+
+![Воскресенье — сырники на завтрак, миска с остатками курицы с субботы, салат из белой фасоли и тунца](photos/sunday.png)
+
+### Завтрак — сигнатурный выходной: сырники (частичная замена — 100 г творога в стакане вместо 200)
+
+3 сырника (150 г творога + 1 яйцо + 15 г рисовой муки + 3 финика) + греческий йогурт + голубика + банан + миндаль. С уменьшенным якорем: ~600 ккал, 63 г белка.
+
+### Обед — миска с остатками курицы с субботнего жаркого
+
+150 г курицы + крупа + зелень + овощи. ~650 ккал, 50 г белка.
+
+### Ужин — салат с белой фасолью и тунцом (1 раз в неделю; без нори)
+
+Консервированный тунец (130 г) + белая фасоль + варёное яйцо + зелёные оливки + помидор + руккола + оливковое масло. ~420 ккал, 47 г белка.
+
+### По желанию — Нью-Йоркский чизкейк (заслуженный десерт, ~320 ккал, после обеда, не после ужина)
+
+**Итог дня: ~2040 ккал · 160 г белка · 59 г жиров · 164 г углеводов** (с чизкейком) ✓
+
+[↑ Наверх](#top)
+
+---
+
+## Недельная заготовка
+
+- **Воскресенье после полудня** — запечь баклажан / перец / чеснок / тыкву / свёклу / картофель; сварить 4 яйца вкрутую; засолить 300 г свежего лосося; замочить 150 г гречки на вторник.
+- **Вторник вечером** — запечь 400 г куриных бёдер (на 3 приёма); сварить 150 г гречки + 120 г пшена.
+- **Среда вечером** — запечь 300 г лосося (на 2 приёма).
+- **Суббота после полудня** — запечь целую курицу (неделя 1 из ротации); разобрать на воскресный обед + на понедельник.
+
+## Ежедневные добавки
+
+- **Завтрак** — мультивитамин + витамин K2 (+ креатин 5 г в нетренировочные дни — добавить в йогурт)
+- **После тренировки (вт / чт)** — сывороточный протеин + креатин 5 г + банан
+- **Дни без лосося** (пн, пт, иногда сб / вс) — 2–3 капсулы омега-3 с едой
+- **Перед сном** — магний
+- **По ситуации** — витамин C 1000 мг (в дни простуды или высокого стресса)
+
+## Гидратация
+
+- База **2,5 л в день**; тренировочные дни (вт / чт / сб / вс) **3,0–3,5 л**.
+- Температура не важна — тёплая вода с лимоном / лаймом утром подходит (пить через трубочку, прополоскать рот).
+- Электролиты только в субботний HIIT / воскресный бокс или в жару.
+- Прекратить пить ~1–2 ч до сна.
+
+[↑ Наверх](#top)
