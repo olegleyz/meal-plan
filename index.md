@@ -300,3 +300,12 @@
 - Прекратить пить ~1–2 ч до сна.
 
 [↑ Наверх](#top)
+
+<script>
+const days = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
+const today = days[new Date().getDay()];
+if (!window.location.hash) {
+  const el = document.getElementById(today);
+  if (el) el.scrollIntoView();
+}
+</script>
